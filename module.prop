@@ -1,0 +1,6 @@
+id=tab_a8_volume_boost
+name=Tab A8 Volume Boost
+version=v2.3
+versionCode=5
+author=incogniter91
+description=Volume oltre il 100%: con la barra al massimo, Volume+ abbassa il valore DAC fino allo 0 assoluto (senza blocchi)
